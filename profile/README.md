@@ -1,4 +1,6 @@
-# OrbitIt Solutions Ltd.
+# [OrbitIt Solutions Ltd](https://orbititsolutions.ca/).
+
+<img src="./OrbitIt Solutions Banner.png" alt="OrbitIt Solutions, IT Consulting and Software Development">
 
 OrbitIt Solutions Ltd. is a software development company that aims to deliver quality software products and contribute to the tech community through open-source projects.
 
