@@ -10,4 +10,4 @@ OrbitIt Solutions Ltd. is a software development company that aims to deliver qu
 - Custom Software Development
 - IT Support
 
-Our team is passionate about their craft and are dedicated to building software products that provide value to our customers and end users.
+We are passionate about our craft and are dedicated to building software products that provide value to our customers and end users.
